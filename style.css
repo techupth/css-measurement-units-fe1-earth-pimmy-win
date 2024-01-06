@@ -1,1 +1,24 @@
-/* Start coding here */
+
+#lightgrey-box {
+    height: 100vh;
+    padding: 50px;
+    background-color: lightgrey;
+}
+
+#orange-box {
+    position: relative;
+    height: 25%;
+    background-color: orange;
+}
+
+#khaki-box {
+    position: relative;
+    height: 25%;
+    background-color: khaki;
+}
+
+#cornflowerblue-box {
+    position: relative;
+    height: 50%;
+    background-color: cornflowerblue;   
+}
